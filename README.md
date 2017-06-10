@@ -1,10 +1,8 @@
 # activemq
-<h3>first push</h3><br>
-
-<h5>1.relevance local repo</h5><br>
+<h3>first push</h3>
+<h5>1.relevance local repo</h5>
 sudo git remote add origin https://github.com/NeverFeel/activemq.git<br>
-
-<h5>2.some problems when pushing</h5><br>
+<h5>2.some problems when pushing</h5>
 ! [rejected]        master -> master (fetch first)<br>
 error: failed to push some refs to 'https://github.com/NeverFeel/activemq.git'<br>
 hint: Updates were rejected because the remote contains work that you do<br>
