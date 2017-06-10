@@ -11,7 +11,7 @@ hint: to the same ref. You may want to first integrate the remote changes<br>
 hint: (e.g., 'git pull ...') before pushing again.<br>
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 
-主要是没有讲github中的README.md文件拉下来<br>
+主要是没有将github中的README.md文件拉下来<br>
 执行：git pull --rebase origin master<br>
 
 再执行:sudo git push origin master<br>
